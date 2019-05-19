@@ -1,0 +1,2 @@
+# alplain-caddy
+Caddy server
